@@ -23,7 +23,7 @@
 
 <!-- Links -->
 <p align="center">
-  <a href="https://discord.com/users/victor.sxz.l"><img src="https://img.shields.io/badge/Discord-9146FF?style=for-the-badge&logo=Discord&logoColor=white" /></a>
+  <a href="[https://discord.com/users/699277681920835625](https://discord.com/users/699277681920835625)"><img src="https://img.shields.io/badge/Discord-9146FF?style=for-the-badge&logo=Discord&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Trello-9370DB?style=for-the-badge&logo=Trello&logoColor=white" /></a>
 </p>
