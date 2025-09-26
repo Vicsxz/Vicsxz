@@ -1,69 +1,70 @@
-<!-- Título -->
-<h1 align="center">💜 Welcome to my profile!</h1>
+# 💜 Welcome to my profile!
 
-<!-- Presentation -->
-<p align="center">
-  Hi, I'm <strong>Victor</strong> — a passionate Software Analysis and Developer student from Brazil.
-</p>
+## 👨‍💻 About Me
 
-<p align="center">
-  💻 I’m currently studying Software Analysis and Development<br>
-  ✨ My goal is to learn the most I can from web and mobile applications.
-</p>
+Hi, I'm **Victor** — a passionate Software Analysis and Development student from Brazil.
 
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
+- 🎯 **17 years old** | Portuguese | English
+- 💻 Currently studying **Software Analysis and Development**
+- 🚀 Focused on **web and mobile application development**
+- 🧠 Experienced with **SQL, JavaScript, Data Analysis, and Visualization**
+- ✨ Passionate about **clean code and innovative solutions**
 
-  - 💬 I'm 17 years old, currently living in Brazil.  
-  - 🇺🇸 Fluent in English  
-  - 🧠 Experienced with SQL, JavaScript, Data Analysis, and Visualization  
+## 🛠️ Tech Stack
 
-</details>
+### 💻 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<!-- Links -->
-<p align="center">
-  <a href="https://discord.com/users/699277681920835625"><img src="https://img.shields.io/badge/Discord-9146FF?style=for-the-badge&logo=Discord&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Trello-9370DB?style=for-the-badge&logo=Trello&logoColor=white" /></a>
-</p>
+### ⚙️ Frameworks & Technologies
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-<!-- Github Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vicsxz&show_icons=true&theme=purple&hide_border=false&icon_color=bb6bd9&title_color=bb6bd9&text_color=ffffff&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vicsxz&layout=compact&card_height=200&theme=purple&hide_border=false&title_color=bb6bd9&text_color=ffffff&bg_color=0d1117" width="48%" />
-</p>
+### 🔧 Tools & Platforms
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-<!-- Portfolio -->
-## 💼 Portfolio
-- [on development]()
-- [on development]()
-- [on development]()
-- [on development]()
+## 📊 GitHub Stats
 
-<!-- GIFs -->
-<p align="center">
-  <img src="https://media0.giphy.com/media/84SFZf1BKgzeny1WxQ/source.gif" width="250" height="400" />
-  <img src="https://i0.wp.com/cdn130.picsart.com/360151356029201.gif?to=crop&type=webp&r=40x40&q=50" width="250" height="400" />
-  <img src="https://safebooru.org/images/4012/e5b877d2ab00949fdd93507d57131fbe632c0311.gif" width="250" height="400" />
-</p>
+<div align="center">
+  
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicsxz&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=bb6bd9&icon_color=bb6bd9&text_color=ffffff)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vicsxz&theme=radical&hide_border=true&background=0d1117&stroke=bb6bd9&ring=bb6bd9&fire=bb6bd9&currStreakLabel=bb6bd9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vicsxz&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=bb6bd9&text_color=ffffff)
+
+</div>
+
+## 💼 Projects
+
+### 🚀 Coming Soon...
+
+## 📚 Currently Learning
+- Advanced React Patterns
+- Mobile Development with React Native  
+- Backend Architecture
+- UI/UX Design Principles
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/699277681920835625)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-barreto-magalh%C3%A3es-726aa4350/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.barreto.contato@gmail.com)
+
+</div>
 
 ---
 
-## 🔥 Skills
+<div align="center">
+  
+**Thanks for visiting my profile!** 😊
 
-### 🖥️ Programming Languages
-<p>
-  <img alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="TypeScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-</p>
-
-### ⚙️ Tools & Frameworks
-<p>
-  <img alt="VSCode" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img alt="Laravel" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">
-  <img alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-</p>
+</div>
