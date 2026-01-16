@@ -33,7 +33,7 @@ Hi, I'm **Victor** — a passionate Software Analysis and Development student fr
 
 <div align="center">
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicsxz&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=bb6bd9&icon_color=bb6bd9&text_color=ffffff&v=1)
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vicsxz&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=bb6bd9&icon_color=bb6bd9&text_color=ffffff&v=1)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=vicsxz&theme=radical&hide_border=true&background=0d1117&stroke=bb6bd9&ring=bb6bd9&fire=bb6bd9&currStreakLabel=bb6bd9)
 
