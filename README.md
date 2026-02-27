@@ -3,7 +3,7 @@
 ## 👨‍💻 Sobre mim
 Olá, eu sou o **Victor**, estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia.
 
-- 🎯 17 anos | Português | Inglês  
+- 🎯 18 anos | Português | Inglês  
 - 💻 Análise e Desenvolvimento de Sistemas  
 - 🚀 Desenvolvimento web e mobile  
 - ✨ Foco em clean code e boas práticas  
