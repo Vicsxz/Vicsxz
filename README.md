@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://placehold.co/1200x300/ffffff/111111?text=SEU+BANNER+AQUI" alt="Banner" width="100%" />
+<img src="./assets/Lain banner maior.png" alt="Banner" width="100%" />
 
 <br><br>
 
@@ -20,11 +20,11 @@
 
 ---
 
-## 👤 Sobre mim!
+## Sobre mim!
 
 <table>
 <tr>
-<td width="72%" valign="top">
+<td width="72%" valign="center">
 
 Depois de fazer um curso técnico e ter contato com programação, descobri que sou apaixonado pela área e decidi seguir meu caminho na tecnologia.
 
@@ -38,7 +38,7 @@ Depois de fazer um curso técnico e ter contato com programação, descobri que 
 
 <td width="28%" align="center" valign="middle">
 
-<img src="https://placehold.co/220x220/0d1117/ffffff?text=IMAGE" width="190" alt="Imagem de perfil/destaque">
+<img src="./assets/Lain mini banner.jpg" width="100%"/>
 
 </td>
 </tr>
@@ -46,7 +46,7 @@ Depois de fazer um curso técnico e ter contato com programação, descobri que 
 
 ---
 
-## ⚙️ Tecnologias
+## Tecnologias
 
 <div align="center">
 
@@ -54,11 +54,11 @@ Depois de fazer um curso técnico e ter contato com programação, descobri que 
 
 </div>
 
-## 🔥 Sequência de contribuições
+## Contribuições
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Vicsxz&theme=dark&hide_border=true"
+<img src="https://streak-stats.demolab.com/?user=Vicsxz&theme=dark&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF"
      alt="GitHub Streak">
 
 </div>
